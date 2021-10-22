@@ -1,0 +1,14 @@
+PackageIdentifier: mspearpoint.Evacuationz
+PackageVersion: 2.12
+PackageLocale: en-US
+Publisher: mspearpoint
+PackageName: Evacuationz
+License: MIT
+ShortDescription: Network evacuation simulation tool
+Installers: 
+ - Architecture: x64
+   InstallerType: msi
+   InstallerUrl: https://1drv.ms/u/s!Av2oWl0vBLmS11DDcDqw6akc12l4?e=JdWe6e
+   InstallerSha256: 092aa89b1881e058d31b1a8d88f31bb298b5810afbba25c5cb341cfa4904d843
+ManifestType: singleton
+ManifestVersion: 1.0.0
